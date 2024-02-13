@@ -43,10 +43,12 @@ git clone https://github.com/smit-joshi814/MLP.git
 2. Navigate to the cloned directories:
 
 ```
+```
 cd python
 ```
 ```
 cd MLP
+```
 ```
 
 3. Explore the different sections and start with the topics that interest you the most.
