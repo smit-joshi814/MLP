@@ -1,4 +1,3 @@
-```markdown
 # Machine Learning With Python & Python Programming
 
 Welcome to the "Machine Learning With Python" and "Python Programming" repositories! These repositories are dedicated to providing resources, code examples, and tutorials for beginners and enthusiasts interested in learning Python programming language and exploring the field of machine learning using Python.
@@ -43,12 +42,11 @@ git clone https://github.com/smit-joshi814/MLP.git
 2. Navigate to the cloned directories:
 
 ```
-```
 cd python
 ```
+
 ```
 cd MLP
-```
 ```
 
 3. Explore the different sections and start with the topics that interest you the most.
@@ -58,8 +56,12 @@ cd MLP
 ## Contributing
 Contributions to these repositories are welcome! Whether you want to fix a typo, add a new tutorial, or improve existing content, your contributions are greatly appreciated. To contribute, simply fork the respective repository, make your changes, and submit a pull request.
 
+## Contributors
+<a href="https://github.com/smit-joshi814/MLP/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=smit-joshi814/MLP&max=5" />
+</a>
+
 ## Feedback and Support
 If you have any questions, feedback, or suggestions, please don't hesitate to [open an issue](https://github.com/smit-joshi814/python/issues) or [open an issue](https://github.com/smit-joshi814/MLP/issues). We're here to help and improve these repositories together!
 
 Happy coding and learning!
-```
